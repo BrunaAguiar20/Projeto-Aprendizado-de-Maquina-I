@@ -4,7 +4,9 @@ Projeto desenvolvido para a disciplina de Aprendizado de Máquina I, com o objet
 
 ## Base de Dados
 
-URL: https://drive.google.com/file/d/1b5wAt8TuXi2-dAUr95Dz-L6eh1mUGuwM/view?usp=sharing
+URL Dados Abertos do Gov: https://www.gov.br/anp/pt-br/centrais-de-conteudo/dados-abertos/serie-historica-de-precos-de-combustiveis
+
+URL Google Drive: https://drive.google.com/file/d/1b5wAt8TuXi2-dAUr95Dz-L6eh1mUGuwM/view?usp=sharing
 
 Foram utilizados dados públicos da Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP), referentes ao primeiro semestre de 2026.
 
