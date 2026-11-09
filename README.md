@@ -8,7 +8,7 @@ Foram utilizados dados públicos da Agência Nacional do Petróleo, Gás Natural
 
 A classificação foi realizada com base na mediana dos preços de cada combustível:
 
-0 — Baixo: preço menor ou igual à mediana.
+* 0 — Baixo: preço menor ou igual à mediana.
 
 1 — Alto: preço acima da mediana.
 
