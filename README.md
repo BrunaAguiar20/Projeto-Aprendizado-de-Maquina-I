@@ -4,6 +4,8 @@ Projeto desenvolvido para a disciplina de Aprendizado de Máquina I, com o objet
 
 ## Base de Dados
 
+URL: https://drive.google.com/file/d/1b5wAt8TuXi2-dAUr95Dz-L6eh1mUGuwM/view?usp=sharing
+
 Foram utilizados dados públicos da Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP), referentes ao primeiro semestre de 2026.
 
 A classificação foi realizada com base na mediana dos preços de cada combustível:
