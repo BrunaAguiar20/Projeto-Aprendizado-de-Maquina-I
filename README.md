@@ -10,7 +10,7 @@ A classificação foi realizada com base na mediana dos preços de cada combust�
 
 * 0 — Baixo: preço menor ou igual à mediana.
 
-1 — Alto: preço acima da mediana.
+* 1 — Alto: preço acima da mediana.
 
 Fonte: Série Histórica de Preços de Combustíveis — ANP
 
@@ -18,9 +18,9 @@ Fonte: Série Histórica de Preços de Combustíveis — ANP
 
 Foram implementados e comparados dois modelos de classificação:
 
-Árvore de Decisão
+* Árvore de Decisão
 
-Random Forest
+* Random Forest
 
 Os modelos foram avaliados utilizando métricas como acurácia e F1-score.
 
