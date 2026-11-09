@@ -30,8 +30,8 @@ Python, Pandas, Matplotlib, Scikit-learn e Jupyter Notebook.
 
 # Como Executar
 
-Abra o notebook .ipynb no Google Colab ou VS Code.
+1. Abra o notebook .ipynb no Google Colab ou VS Code.
 
-Execute as células na ordem apresentada.
+2. Execute as células na ordem apresentada.
 
 A base de dados está disponível neste repositório e pode ser carregada diretamente pelo código do notebook.
